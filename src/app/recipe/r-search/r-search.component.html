@@ -1,0 +1,39 @@
+<form [@searchBarPosition]="isInitial ? 'initial' : 'final'">
+  <div style="display: flex; justify-content: center">
+    <div style="width: 50%; display: flex; justify-content: space-between">
+      <h1 style="text-align: center; color: darkorange">Recipe app</h1>
+      <mat-form-field style="width: 75%">
+        <input
+          type="text"
+          placeholder="Search your favourite recipe"
+          matInput
+          [formControl]="recipeAutoComplete"
+          [matAutocomplete]="auto"
+        />
+
+        <mat-autocomplete
+          autoActiveFirstOption
+          #auto="matAutocomplete"
+          [displayWith]="recipeDisplayValue"
+          (optionSelected)="onRecipeSelect($event)"
+        >
+          <mat-option
+            *ngFor="let recipe of recipeAutoComplete$ | async"
+            [value]="recipe"
+          >
+            {{ recipe.title }}
+          </mat-option>
+        </mat-autocomplete>
+      </mat-form-field>
+      <mat-spinner
+        [color]="spinnerColor"
+        [diameter]="30"
+        [ngClass]="{ visible: loading, hidden: !loading }"
+        [strokeWidth]="2"
+        [mode]="'indeterminate'"
+        style="margin: 5px"
+      >
+      </mat-spinner>
+    </div>
+  </div>
+</form>

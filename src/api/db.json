@@ -1,0 +1,407 @@
+{
+  "recipesAutocomplete": [
+    {
+      "id": 989965,
+      "title": "Indian Raita"
+    },
+    {
+      "id": 754876,
+      "title": "Bellissima Sparkling Rose"
+    },
+    {
+      "id": 754876,
+      "title": "Bellissima Sparkling Rose"
+    },
+    {
+      "id": 754876,
+      "title": "Bellissima Sparkling Rose"
+    },
+    {
+      "id": 754876,
+      "title": "Bellissima Sparkling Rose"
+    },
+    {
+      "id": 989965,
+      "title": "Indian Raita"
+    },
+    {
+      "id": 754876,
+      "title": "Bellissima Sparkling Rose"
+    },
+    {
+      "id": 754876,
+      "title": "Bellissima Sparkling Rose"
+    },
+    {
+      "id": 754876,
+      "title": "Bellissima Sparkling Rose"
+    },
+    {
+      "id": 754876,
+      "title": "Bellissima Sparkling Rose"
+    },
+    {
+      "id": 989965,
+      "title": "Indian Raita"
+    },
+    {
+      "id": 754876,
+      "title": "Bellissima Sparkling Rose"
+    },
+    {
+      "id": 754876,
+      "title": "Bellissima Sparkling Rose"
+    },
+    {
+      "id": 754876,
+      "title": "Bellissima Sparkling Rose"
+    },
+    {
+      "id": 754876,
+      "title": "Bellissima Sparkling Rose"
+    }
+  ],
+  "recipe": {
+    "vegetarian": true,
+    "vegan": false,
+    "glutenFree": true,
+    "dairyFree": false,
+    "veryHealthy": false,
+    "cheap": false,
+    "veryPopular": false,
+    "sustainable": false,
+    "weightWatcherSmartPoints": 7,
+    "gaps": "no",
+    "lowFodmap": false,
+    "preparationMinutes": 5,
+    "cookingMinutes": 0,
+    "aggregateLikes": 90,
+    "spoonacularScore": 47.0,
+    "healthScore": 4.0,
+    "creditsText": "Dinner, then Dessert",
+    "sourceName": "Dinner, then Dessert",
+    "pricePerServing": 155.13,
+    "extendedIngredients": [
+      {
+        "id": 4582,
+        "aisle": "Oil, Vinegar, Salad Dressing",
+        "image": "vegetable-oil.jpg",
+        "consistency": "liquid",
+        "name": "canola oil",
+        "original": "1 teaspoon canola oil",
+        "originalString": "1 teaspoon canola oil",
+        "originalName": "canola oil",
+        "amount": 1.0,
+        "unit": "teaspoon",
+        "meta": [],
+        "metaInformation": [],
+        "measures": {
+          "us": {
+            "amount": 1.0,
+            "unitShort": "tsp",
+            "unitLong": "teaspoon"
+          },
+          "metric": {
+            "amount": 1.0,
+            "unitShort": "tsp",
+            "unitLong": "teaspoon"
+          }
+        }
+      },
+      {
+        "id": 11206,
+        "aisle": "Produce",
+        "image": "cucumber.jpg",
+        "consistency": "solid",
+        "name": "cucumber",
+        "original": "1/2 cup cucumber, minced finely",
+        "originalString": "1/2 cup cucumber, minced finely",
+        "originalName": "cucumber, minced finely",
+        "amount": 0.5,
+        "unit": "cup",
+        "meta": [
+          "minced",
+          "finely"
+        ],
+        "metaInformation": [
+          "minced",
+          "finely"
+        ],
+        "measures": {
+          "us": {
+            "amount": 0.5,
+            "unitShort": "cups",
+            "unitLong": "cups"
+          },
+          "metric": {
+            "amount": 118.294,
+            "unitShort": "ml",
+            "unitLong": "milliliters"
+          }
+        }
+      },
+      {
+        "id": 11291,
+        "aisle": "Produce",
+        "image": "spring-onions.jpg",
+        "consistency": "solid",
+        "name": "green onions",
+        "original": "1 tablespoon chopped green onions, whites only",
+        "originalString": "1 tablespoon chopped green onions, whites only",
+        "originalName": "chopped green onions, whites only",
+        "amount": 1.0,
+        "unit": "tablespoon",
+        "meta": [
+          "chopped"
+        ],
+        "metaInformation": [
+          "chopped"
+        ],
+        "measures": {
+          "us": {
+            "amount": 1.0,
+            "unitShort": "Tbsp",
+            "unitLong": "Tbsp"
+          },
+          "metric": {
+            "amount": 1.0,
+            "unitShort": "Tbsp",
+            "unitLong": "Tbsp"
+          }
+        }
+      },
+      {
+        "id": 1002013,
+        "aisle": "Spices and Seasonings",
+        "image": "ground-coriander.jpg",
+        "consistency": "solid",
+        "name": "ground coriander",
+        "original": "1/2 teaspoon ground coriander",
+        "originalString": "1/2 teaspoon ground coriander",
+        "originalName": "ground coriander",
+        "amount": 0.5,
+        "unit": "teaspoon",
+        "meta": [],
+        "metaInformation": [],
+        "measures": {
+          "us": {
+            "amount": 0.5,
+            "unitShort": "tsps",
+            "unitLong": "teaspoons"
+          },
+          "metric": {
+            "amount": 0.5,
+            "unitShort": "tsps",
+            "unitLong": "teaspoons"
+          }
+        }
+      },
+      {
+        "id": 1002014,
+        "aisle": "Spices and Seasonings",
+        "image": "ground-cumin.jpg",
+        "consistency": "solid",
+        "name": "ground cumin",
+        "original": "1/2 teaspoon ground cumin",
+        "originalString": "1/2 teaspoon ground cumin",
+        "originalName": "ground cumin",
+        "amount": 0.5,
+        "unit": "teaspoon",
+        "meta": [],
+        "metaInformation": [],
+        "measures": {
+          "us": {
+            "amount": 0.5,
+            "unitShort": "tsps",
+            "unitLong": "teaspoons"
+          },
+          "metric": {
+            "amount": 0.5,
+            "unitShort": "tsps",
+            "unitLong": "teaspoons"
+          }
+        }
+      },
+      {
+        "id": 1082047,
+        "aisle": "Spices and Seasonings",
+        "image": "salt.jpg",
+        "consistency": "solid",
+        "name": "kosher salt",
+        "original": "1/2 teaspoon kosher salt",
+        "originalString": "1/2 teaspoon kosher salt",
+        "originalName": "kosher salt",
+        "amount": 0.5,
+        "unit": "teaspoon",
+        "meta": [],
+        "metaInformation": [],
+        "measures": {
+          "us": {
+            "amount": 0.5,
+            "unitShort": "tsps",
+            "unitLong": "teaspoons"
+          },
+          "metric": {
+            "amount": 0.5,
+            "unitShort": "tsps",
+            "unitLong": "teaspoons"
+          }
+        }
+      },
+      {
+        "id": 1001116,
+        "aisle": "Milk, Eggs, Other Dairy",
+        "image": "plain-yogurt.jpg",
+        "consistency": "liquid",
+        "name": "plain yogurt",
+        "original": "1 cup plain yogurt",
+        "originalString": "1 cup plain yogurt",
+        "originalName": "plain yogurt",
+        "amount": 1.0,
+        "unit": "cup",
+        "meta": [
+          "plain"
+        ],
+        "metaInformation": [
+          "plain"
+        ],
+        "measures": {
+          "us": {
+            "amount": 1.0,
+            "unitShort": "cup",
+            "unitLong": "cup"
+          },
+          "metric": {
+            "amount": 236.588,
+            "unitShort": "ml",
+            "unitLong": "milliliters"
+          }
+        }
+      },
+      {
+        "id": 2014,
+        "aisle": "Spices and Seasonings",
+        "image": "ground-cumin.jpg",
+        "consistency": "solid",
+        "name": "whole cumin seeds",
+        "original": "1/2 teaspoon whole cumin seeds",
+        "originalString": "1/2 teaspoon whole cumin seeds",
+        "originalName": "whole cumin seeds",
+        "amount": 0.5,
+        "unit": "teaspoon",
+        "meta": [
+          "whole"
+        ],
+        "metaInformation": [
+          "whole"
+        ],
+        "measures": {
+          "us": {
+            "amount": 0.5,
+            "unitShort": "tsps",
+            "unitLong": "teaspoons"
+          },
+          "metric": {
+            "amount": 0.5,
+            "unitShort": "tsps",
+            "unitLong": "teaspoons"
+          }
+        }
+      }
+    ],
+    "id": 989965,
+    "title": "Indian Raita",
+    "readyInMinutes": 5,
+    "servings": 1,
+    "sourceUrl": "https://dinnerthendessert.com/indian-raita/",
+    "image": "https://spoonacular.com/recipeImages/989965-556x370.jpg",
+    "imageType": "jpg",
+    "summary": "Indian Raitan is an Indian hor d'oeuvre. This recipe serves 1 and costs $1.49 per serving. One portion of this dish contains approximately <b>9g of protein</b>, <b>13g of fat</b>, and a total of <b>202 calories</b>. 90 people were impressed by this recipe. It is a good option if you're following a <b>gluten free and lacto ovo vegetarian</b> diet. Head to the store and pick up green onions, kosher salt, ground cumin, and a few other things to make it today. From preparation to the plate, this recipe takes approximately <b>5 minutes</b>. It is brought to you by Dinner, then Dessert. Overall, this recipe earns a <b>solid spoonacular score of 69%</b>. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/indian-spiced-pork-with-raita-333747\">Indian-Spiced Pork with Raita</a>, <a href=\"https://spoonacular.com/recipes/indian-spiced-chicken-with-raita-74344\">Indian-spiced Chicken With Raita</a>, and <a href=\"https://spoonacular.com/recipes/indian-raita-cucumber-mix-103009\">Indian Raita (Cucumber Mix)</a>.",
+    "cuisines": [
+      "Indian",
+      "Asian"
+    ],
+    "dishTypes": [
+      "side dish"
+    ],
+    "diets": [
+      "gluten free",
+      "lacto ovo vegetarian"
+    ],
+    "occasions": [],
+    "winePairing": {
+      "pairedWines": [
+        "sparkling rose",
+        "riesling",
+        "gruener veltliner"
+      ],
+      "pairingText": "Sparkling rosé, Riesling, and Gruener Veltliner are my top picks for Indian. The best wine for Indian food will depending on the dish, of course, but these picks can be served chilled and have some sweetness to complement the spiciness and complex flavors of a wide variety of traditional dishes. The Bellissima Sparkling rosé with a 4.1 out of 5 star rating seems like a good match. It costs about 21 dollars per bottle.",
+      "productMatches": [
+        {
+          "id": 458665,
+          "title": "Bellissima Sparkling Rose",
+          "description": "This is an elegant, bright rosé, with hints of strawberry and grapefruit, and a soft, persistent foam. Uncorked at the very last minute, Bellissima Sparkling Rosé pairs perfectly with smoked salmon, shellfish, and seafood hor d’oeuvres such as tuna tartare, sushi, and sashimi.",
+          "price": "$20.99",
+          "imageUrl": "https://spoonacular.com/productImages/458665-312x231.jpg",
+          "averageRating": 0.82,
+          "ratingCount": 8.0,
+          "score": 0.7799999999999999,
+          "link": "https://click.linksynergy.com/deeplink?id=*QCiIS6t4gA&mid=2025&murl=https%3A%2F%2Fwww.wine.com%2Fproduct%2Fbellissima-sparkling-rose%2F293794"
+        }
+      ]
+    },
+    "instructions": "In a skillet add the canola oil and heat on high heat.Add in the cumin seeds and cook for 15-20 seconds.In a medium bowl mix all the ingredients together including the cumin seeds and refrigerate for at least 1 hour before serving.",
+    "analyzedInstructions": [
+      {
+        "name": "",
+        "steps": [
+          {
+            "number": 1,
+            "step": "In a skillet add the canola oil and heat on high heat.",
+            "ingredients": [
+              {
+                "id": 1014582,
+                "name": "canola oil",
+                "localizedName": "canola oil",
+                "image": "vegetable-oil.jpg"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404645,
+                "name": "frying pan",
+                "localizedName": "frying pan",
+                "image": "pan.png"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "step": "Add in the cumin seeds and cook for 15-20 seconds.In a medium bowl mix all the ingredients together including the cumin seeds and refrigerate for at least 1 hour before serving.",
+            "ingredients": [
+              {
+                "id": 2014,
+                "name": "cumin seeds",
+                "localizedName": "cumin seeds",
+                "image": "ground-cumin.jpg"
+              }
+            ],
+            "equipment": [
+              {
+                "id": 404783,
+                "name": "bowl",
+                "localizedName": "bowl",
+                "image": "bowl.jpg"
+              }
+            ],
+            "length": {
+              "number": 60,
+              "unit": "minutes"
+            }
+          }
+        ]
+      }
+    ],
+    "originalId": null
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "/recipes/autocomplete\\?query=:id&number=:records": "/recipesAutocomplete?q=:id&_page=1&_limit=:records",
+  "/recipes/:id/information": "/recipe"
+}
