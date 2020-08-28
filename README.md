@@ -1,6 +1,7 @@
 # RecipeApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.
+This project is built under the intention to give a demonstration on how we can use rapidAPI in a angular application. This also provides a basic idea of how we can use angular animations for a better user experience. For development purpose, I have used JSON server as backend API. 
 
 ## Development server
 
