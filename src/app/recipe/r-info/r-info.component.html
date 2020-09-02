@@ -1,14 +1,10 @@
-<div
-  *ngIf="recipe$ | async as recipe"
-  style="position: absolute; background: #e0e0e0; margin-top: 4%; height: 92%;"
-  @slideUp
->
+<div *ngIf="recipe$ | async as recipe" @slideUp class="info-main">
   <div class="recipe-info-section">
-    <div style="display: flex; align-items: center;">
+    <div style="display: flex; align-items: center">
       <h1>{{ recipe.title }}</h1>
       <div
         *ngIf="recipe.vegetarian"
-        style="margin-bottom: 16px; margin-left: 5px; color: darkgreen;"
+        style="margin-bottom: 16px; margin-left: 5px; color: darkgreen"
       >
         (Veg {{ recipe.vegan ? ", Vegan" : ""
         }}{{ recipe.glutenFree ? ", Gluten free" : ""
@@ -21,20 +17,18 @@
       {{ recipe.readyInMinutes }} minutes preparation time for
       {{ recipe.servings }} Servings
     </h4>
-    <h4 class="heading">
-      Summary
-    </h4>
+    <h4 class="heading">Summary</h4>
     <p [innerHTML]="recipe.summary"></p>
     <div>
       <h3 class="heading">Instructions:</h3>
       <div
         *ngFor="let instruction of recipe.analyzedInstructions"
-        style="margin-left: 5px;"
+        style="margin-left: 5px"
       >
         <div *ngFor="let step of instruction.steps">
           <h4 class="heading">
             Step {{ step.number }}
-            <span style="font-weight: normal;"
+            <span style="font-weight: normal"
               >(Ingredients: {{ showIngredients(step.ingredients) }})</span
             >
           </h4>
@@ -44,8 +38,6 @@
         </div>
       </div>
     </div>
-    <div style="font-size: 16px;">
-      Stay safe and healthy!
-    </div>
+    <div style="font-size: 16px">Stay safe and healthy!</div>
   </div>
 </div>

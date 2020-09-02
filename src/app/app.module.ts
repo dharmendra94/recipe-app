@@ -8,6 +8,7 @@ import { HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
 import { LoaderComponent } from './loader/loader.component';
 import { MatProgressBarModule } from '@angular/material/progress-bar';
 import { HeadersInterceptor } from './http-interceptors/headers.interceptor';
+import { LayoutModule } from '@angular/cdk/layout';
 
 @NgModule({
   declarations: [AppComponent, LoaderComponent],
@@ -17,6 +18,7 @@ import { HeadersInterceptor } from './http-interceptors/headers.interceptor';
     BrowserAnimationsModule,
     HttpClientModule,
     MatProgressBarModule,
+    LayoutModule,
   ],
   providers: [
     {

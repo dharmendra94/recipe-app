@@ -10,6 +10,8 @@ import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatAutocompleteModule } from '@angular/material/autocomplete';
 import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { RecipeService } from './services/recipe.service';
+import { StoreService } from './services/store.service';
 
 @NgModule({
   declarations: [RecipeComponent, RSearchComponent, RInfoComponent],
@@ -23,5 +25,6 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
     MatAutocompleteModule,
     MatProgressSpinnerModule,
   ],
+  providers: [RecipeService, StoreService],
 })
 export class RecipeModule {}
